@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LocationTracker_Example' do
+  pod 'LocationTracker', :path => '../'
+
+  target 'LocationTracker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
