@@ -1,0 +1,16 @@
+PODS:
+  - LocationTracker (0.1.0)
+
+DEPENDENCIES:
+  - LocationTracker (from `../`)
+
+EXTERNAL SOURCES:
+  LocationTracker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LocationTracker: 0398e9570f7da8d2288d02ddd53ab81ef33e8d2d
+
+PODFILE CHECKSUM: bb1e5ae5f4723fdad360902a97614348ed558a3c
+
+COCOAPODS: 1.8.4

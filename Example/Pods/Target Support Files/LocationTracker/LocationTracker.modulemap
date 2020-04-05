@@ -1,0 +1,6 @@
+framework module LocationTracker {
+  umbrella header "LocationTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
